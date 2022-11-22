@@ -3,7 +3,7 @@
     <div class="row mt-5">
         <div class="col-md-3 col-12"></div>
         <div class="col-md-6 col-12 card p-3 shadow border-0 bd-20">
-            <h1 class="text-center">Sign In</h1>
+            <h1 class="text-center">Sign In!</h1>
             <form @submit="onSubmit">
                 <div class="form-group">
                     <input 
