@@ -1,0 +1,58 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6eb55166"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_e0f9d9ee"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5814cf42"
+  },
+  {
+    "name": "photos",
+    "path": "/photos",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\photos\\\\index.vue",
+    "chunkName": "pages/photos/index",
+    "_name": "_f358e6ec"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_bd6a457c"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_e4671c7e"
+  },
+  {
+    "name": "photos-id",
+    "path": "/photos/:id",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\photos\\\\_id.vue",
+    "chunkName": "pages/photos/_id",
+    "_name": "_7d8f2972"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Va-Test\\\\Nuxt-Portfolio\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e325a7aa"
+  }
+]
